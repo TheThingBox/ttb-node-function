@@ -1,0 +1,13 @@
+{
+  "name": "ttb-node-function",
+  "version": "0.0.1",
+  "description": "A function block where you can write code to do more interesting things.",
+  "node-red": {
+    "nodes": {
+      "function": "80-function.js"
+    }
+  },
+  "keywords": [
+    "function"
+  ]
+}
